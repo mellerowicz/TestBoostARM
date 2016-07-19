@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.744073104/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.744073104/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1695819491/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1695819491/LD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1695819491/LD_LIBRARY_PATH/value=/home/bolek/workspace/Test_BoostARM/boost/lib
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1695819491/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1695819491/appendContributed=true
